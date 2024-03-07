@@ -1,0 +1,32 @@
+.primeira-div-pai {
+    background-color: #4b0082;
+    width: 98vw;
+    height: 45vh;
+}
+
+.filha-primeira-div {
+    background-color: #8a2be2;
+    width: 100%;
+    height: 25%;
+}
+
+p {
+    color: #4b0082;
+    background-color: #90ee90;
+    font-weight: bold;
+    font-style: italic;
+    font-family: serif;
+    font-size: 35px;
+}
+
+.segunda-div-pai {
+    background-color: darkolivegreen;
+    width: 98vw;
+    height: 45vh;
+}
+
+.filha-segunda-div {
+    width: 100%;
+    height: 50%;
+    background-color: #90ee90;
+}
